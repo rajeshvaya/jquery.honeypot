@@ -2,7 +2,7 @@
 
 A simple jquery code snippet to protect your forms from getting spam-submitted. 
 
-1. Just include the "jquery.honeypot.js" before the </body> tag
+1. Just include the "jquery.honeypot.js" before the `</body>` tag
 2. Add the following code/function to your server side scripts (in this case `PHP`)
 ```PHP
 function trap_honeypot(){
